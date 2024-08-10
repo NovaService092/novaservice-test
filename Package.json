@@ -7,7 +7,7 @@
       "node": ">=16.0.0"
     },
     "scripts": {
-      "start": "node index.js"
+      "start": "node script.js"
     },
     "author": "Nova|Willy",
     "license": "GPL-3.0-or-later",
